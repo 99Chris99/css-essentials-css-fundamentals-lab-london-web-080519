@@ -7,3 +7,6 @@ header {
   margin: auto;
   align-items: center;
 }
+h1 {
+  align-self: center;
+}
