@@ -30,7 +30,7 @@ featured-property#p {
   color: red;
   }
 
-  details {
+  #details {
     display: block;
     float: left;
   }
