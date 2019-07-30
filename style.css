@@ -24,10 +24,9 @@ figcaption {
   font-size: 0.9em;
 }
 
-#featured-property {
+#featured-property p{
   width: 800px;
   text-align: center;
-  color: red;
   }
 
   #details {
