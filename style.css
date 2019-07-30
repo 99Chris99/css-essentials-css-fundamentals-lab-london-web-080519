@@ -4,10 +4,9 @@ body {
   margin: 0;
 }
 header {
-  margin: auto;
+  margin: 50%;
   align-items: center;
 }
 h1 {
   align-self: center;
-  color: red
 }
